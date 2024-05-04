@@ -28,5 +28,5 @@ Find a solution for using realm-web package within Cloudflare Pages or a technic
 Cloudflare build results in Success, but visiting the [test page](https://test-cloudflare-pages-nuxt-realm-web.pages.dev/api/test) results in Error:
 
 ```plain-text
-Error 500: Cannot read properties of undefined (reading 'exec').
+Error 500: Cannot read properties of undefined (reading 'name').
 ```
